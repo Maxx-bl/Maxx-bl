@@ -8,4 +8,4 @@ Take a look at my work at **[synae.dev](https://synae.dev)**!
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maxx-bl&show_icons=true&theme=default&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxx-bl&theme=minimal&hide_border=true)
