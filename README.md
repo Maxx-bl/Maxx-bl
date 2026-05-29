@@ -7,5 +7,3 @@ Take a look at my work at **[synae.dev](https://synae.dev)**!
 ---
 
 ![Snake](https://raw.githubusercontent.com/Maxx-bl/Maxx-bl/output/snake.svg)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maxx-bl&theme=minimal&hide_border=true)
